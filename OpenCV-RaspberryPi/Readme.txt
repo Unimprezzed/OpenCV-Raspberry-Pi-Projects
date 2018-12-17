@@ -5,7 +5,7 @@ Prerequisites:
 	-You must have OpenCV 3.2.0 or higher with Python3 bindings installed. In my case, this required an installation of all prerequisite libraries and a compile from source using CMake to create the appropriate make files. 
 
 System used: 
-	Raspberry Pi 3 w/ Raspian Jessie (No, seriously!) 
+	Raspberry Pi 3 w/ Raspian Jessie
 	I used this link to install, compile, and run OpenCV (http://www.pyimagesearch.com/2015/10/26/how-to-install-opencv-3-on-raspbian-jessie/). Even if you don't own a Pi, it's a good idea to read through it, as Raspbian is a spin-off of the Debian "universal operating system" project. It's a Linux distro that can run on almost EVERYTHING. 
 
 Contents of this folder: 
